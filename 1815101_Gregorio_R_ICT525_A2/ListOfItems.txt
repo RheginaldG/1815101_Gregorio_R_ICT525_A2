@@ -1,0 +1,6 @@
+Item|ItemPrice|ItemStock
+ABC|3.5|10
+XYZ|4.0|15
+Screwdriver|15.5|20
+Tomato|9.0|40
+RJ45 cable|17.5|4
